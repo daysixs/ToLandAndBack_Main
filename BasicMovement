@@ -42,3 +42,16 @@ public class PlayerMovement : MonoBehaviour
         Gizmos.DrawCube(new Vector2(transform.position.x + xOffset, transform.position.y + yOffset), new Vector2(xSize, ySize));
     }
 }
+
+// isJumping class
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class playerVar : MonoBehaviour
+{
+    public static bool isJumping;
+
+
+}
