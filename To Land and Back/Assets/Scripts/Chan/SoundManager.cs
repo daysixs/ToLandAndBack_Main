@@ -1,7 +1,12 @@
 using System.Collections;
 using UnityEngine;
 
-//Trash ass unity made it so that this is the only way to set up soundChains
+/*!!!Notes: 
+ * Trash ass unity made it so that this is the only way to set up soundChains
+ * Script Version (1.1V)
+ * By Chan Kwok Chun (Gul)
+ * Will be reused in future projects because its perfect for copy and pasting
+ */
 public class SoundManager : MonoBehaviour
 {
     public AudioSource audioSource;
@@ -25,8 +30,8 @@ public class SoundManager : MonoBehaviour
         StartCoroutine(playSoundPiece(soundPieceID));
     }
 
-    //Currently unclean and will work on implimenting string based overload, todo todo todo
-    //-----------------------------------------------------------------------------------------------------------
+    //----------------------------------------------------------------------------------------------------------- !!!Code Divider to Keep it clean
+
     public void PlayChain(string soundChainName) //Chain plays chunks of sound until there is no more in that chain, set the delay to 0 on the sound chunk to make them play together, overload for name instead of id
     {
         //System.Array.Find(soundChains, soundChains => soundChains.chainName == soundChainName); !!!Note Possible usable system method, very useful
