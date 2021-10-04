@@ -97,7 +97,6 @@
     "com.unity.mathematics": {
 <<<<<<< HEAD
       "version": "1.1.0",
-<<<<<<< HEAD
 <<<<<<< Updated upstream
       "depth": 1,
       "source": "registry",
@@ -108,11 +107,14 @@
       "version": "2.0.0",
 =======
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 82ebd92 (Intro Cutscene Prototype)
 =======
       "version": "1.2.1",
 >>>>>>> parent of 2a9807b (Akmal's)
+=======
+>>>>>>> parent of 2318274 (Test)
       "depth": 1,
       "source": "registry",
       "dependencies": {},

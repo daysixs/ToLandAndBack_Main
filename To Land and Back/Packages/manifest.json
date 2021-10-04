@@ -6,6 +6,7 @@
     "com.unity.2d.tilemap": "1.0.0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.collab-proxy": "1.5.7",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.9",
@@ -20,6 +21,11 @@
     "com.unity.ide.rider": "3.0.7",
     "com.unity.ide.visualstudio": "2.0.11",
 >>>>>>> parent of 2a9807b (Akmal's)
+=======
+    "com.unity.collab-proxy": "1.5.7",
+    "com.unity.ide.rider": "2.0.7",
+    "com.unity.ide.visualstudio": "2.0.9",
+>>>>>>> parent of 2318274 (Test)
     "com.unity.ide.vscode": "1.2.3",
     "com.unity.test-framework": "1.1.29",
     "com.unity.textmeshpro": "3.0.6",
