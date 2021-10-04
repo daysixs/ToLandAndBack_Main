@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 m_EditorVersion: 2020.3.14f1
 m_EditorVersionWithRevision: 2020.3.14f1 (d0d1bb862f9d)
@@ -5,3 +6,7 @@ m_EditorVersionWithRevision: 2020.3.14f1 (d0d1bb862f9d)
 m_EditorVersion: 2020.3.2f1
 m_EditorVersionWithRevision: 2020.3.2f1 (8fd9074bf66c)
 >>>>>>> Stashed changes
+=======
+m_EditorVersion: 2020.3.2f1
+m_EditorVersionWithRevision: 2020.3.2f1 (8fd9074bf66c)
+>>>>>>> parent of 82ebd92 (Intro Cutscene Prototype)

@@ -115,6 +115,7 @@
     },
     "com.unity.mathematics": {
       "version": "1.1.0",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       "depth": 1,
       "source": "registry",
@@ -125,6 +126,8 @@
       "version": "2.0.0",
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 82ebd92 (Intro Cutscene Prototype)
       "depth": 1,
       "source": "registry",
       "dependencies": {},
